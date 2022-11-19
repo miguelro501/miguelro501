@@ -1,10 +1,13 @@
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=miguelro501&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=miguelro501&show_icons=true&theme=transparent" />
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelro501&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelro501&layout=compact" />
+
+
 ## Hello, my name is Miguel
 
-##I just started studying at 42 Lisboa, and this is my current level!
+I just started studying at 42 Lisboa, and this is my current level!
+
 [![miguelro's 42 stats](https://badge.mediaplus.ma/darkblue/miguelro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
